@@ -27,19 +27,19 @@ We provide the code of this study on [github](https://github.com/android-not-res
 
 * Monitor Infrastructure
 
-  The monitor infrastructure in our Android-MOD is implemented in [Monitor.java](https://github.com/android-not-respond/Measurement/blob/master/code/Monitor.java).
+  The monitor infrastructure in our Android-MOD is implemented in [Monitor.java](https://github.com/android-poor-respond/Measurement/blob/master/code/Monitor.java).
 
 * Root Cause Analysis Pipeline
 
-  Our root cause analysis pipeline is implemented in [Pipeline.java](https://github.com/android-not-respond/Measurement/blob/master/code/Pipeline.java).
+  Our root cause analysis pipeline is implemented in [Pipeline.java](https://github.com/android-poor-respond/Measurement/blob/master/code/Pipeline.java).
 
 * Regular Expressions
 
-  Our leveraged regular expressions are listed in [Regex.java](https://github.com/android-not-respond/Measurement/blob/master/code/Regex.java).
+  Our leveraged regular expressions are listed in [Regex.java](https://github.com/android-poor-respond/Measurement/blob/master/code/Regex.java).
 
 ### Measurement Data
 
-We provide some measurement data on [github](https://github.com/android-not-respond/Measurement/tree/master/dataset).
+We provide some measurement data on [github](https://github.com/android-poor-respond/Measurement/tree/master/dataset).
 
 The attributes of each ANR/SNR event in the data are organized as follows:
 
