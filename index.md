@@ -23,8 +23,6 @@ We plan to release all code and data after we get approval from the authority.
 
 #### Measurement Code
 
-We provide the code of this study on [github](https://github.com/android-not-respond/Measurement/tree/master/code).
-
 * SR/FF Benchmark Framework and Analysis Tool
 
   The SR/FF benchmark framework and analysis tool are in [GitHub](https://github.com/Android-Poor-Respond/FrameAnalysis). 
