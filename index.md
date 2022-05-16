@@ -41,7 +41,7 @@ We plan to release all code and data after we get approval from the authority.
 
 #### Measurement Data
 
-We provide some measurement data on [github](https://github.com/android-poor-respond/Measurement/tree/master/dataset).
+We provide some measurement data on [GitHub](https://github.com/android-poor-respond/Measurement/tree/master/dataset).
 
 The attributes of each ANR/SNR event in the data are organized as follows:
 
