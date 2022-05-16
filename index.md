@@ -25,7 +25,11 @@ We plan to release all code and data after we get approval from the authority.
 
 We provide the code of this study on [github](https://github.com/android-not-respond/Measurement/tree/master/code).
 
-* Monitor Infrastructure
+* SR/FF Benchmark Framework and Analysis Tool
+
+  The SR/FF benchmark framework and analysis tool are in [GitHub](https://github.com/Android-Poor-Respond/FrameAnalysis). 
+
+* ANR/SNR Monitor Infrastructure
 
   The monitor infrastructure in our Android-MOD is implemented in [Monitor.java](https://github.com/android-poor-respond/Measurement/blob/master/code/Monitor.java).
 
