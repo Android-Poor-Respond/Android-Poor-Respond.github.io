@@ -25,7 +25,7 @@ We plan to release all code and data after we get approval from the authority.
 
 * SR/FF Benchmark Framework and Analysis Tool
 
-  The SR/FF benchmark framework and analysis tool are in [GitHub](https://github.com/Android-Poor-Respond/FrameAnalysis). 
+  The SR/FF benchmark framework and analysis tool are in [GitHub](https://github.com/Android-Poor-Respond/FrameAnalysis). In particular, we have provided detailed usage guides and documented the benchmarking workloads.
 
 * ANR/SNR Monitor Infrastructure
 
